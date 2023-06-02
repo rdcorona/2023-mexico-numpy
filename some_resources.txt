@@ -1,0 +1,43 @@
+Some resources
+----------------
+
+- Scipy lecture notes, 2022.1
+
+Basic Numpy: http://scipy-lectures.org/intro/numpy/index.html
+Advanced Numpy: http://scipy-lectures.org/advanced/advanced_numpy/index.html
+
+
+- Numpy tutorial by Nicolas Rougier, several exercises, includes good visualizations of broadcasting
+
+https://github.com/rougier/numpy-tutorial
+
+
+- Numpy chapter in "Python Data Science Handbook"
+https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html
+
+
+
+Previous schools:
+---------------------
+
+- 2021-Bourdeax was similar as Bilbao 
+
+- 2019-Camerino - Advanced Numpy Patterns 
+
+https://github.com/ASPP/2019-camerino-advanced-numpy
+
+Similar / almost the same as given by Juan in Scipy Japan
+https://github.com/jni/scipy-japan-2019/blob/master/Advanced%20NumPy%20Patterns.ipynb
+
+
+- 2018- from Nicolas Rougier
+
+https://github.com/ASPP/ASPP-2018-numpy
+
+
+- 2016 Stefan 
+
+https://github.com/ASPP/2016_numpy # Stefan
+
+** exercises on fancy indexing and broadcasting
+good visualizatins of broadcasting
