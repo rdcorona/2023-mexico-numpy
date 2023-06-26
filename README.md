@@ -2,15 +2,15 @@
 
 ## Content
 
-0. **[Warm-Up](warm-up.ipynb)**. The basics: np.array, array creation, ufuncs and regular indexing.
+0. **[Warm-Up](notebook-0-warm-up.ipynb)**. The basics: np.array, array creation, ufuncs and regular indexing.
 
-1. **[Fancy indexing, views/copies and sorting](notebook-1.ipynb)**. 
+1. **[Fancy indexing, views/copies and sorting](notebook-1-fancyindexing-views-copies-sorting.ipynb)**. 
 
 2. **[Broadcasting](notebook-2.ipynb)**
   
 3. **[Some miscelaneous](notebook-3.ipynb)**. Loading and saving arrays, masked arrays.
 
-Each notebook contains explanatory text + some exercises.
+Each notebook contains explanatory text + some exercises. Solutions can be found inside folder ```solutions```.
 
 ---
 
