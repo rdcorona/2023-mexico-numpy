@@ -2,20 +2,21 @@
 
 ## Content
 
-0. **[Warm-Up](warm-up.ipynb)**. The basics: np.array, array creation, ufuncs and regular indexing.
+0. **[Warm-Up](notebook-0-warm-up.ipynb)**. The basics: np.array, array creation, ufuncs and regular indexing.
 
-1. **[Numpy inside](notebook-1.ipynb)**. Dimensionality, fancy-indexing, views and copies and sorting.
+1. **[Fancy indexing, views/copies and sorting](notebook-1-fancyindexing-views-copies-sorting.ipynb)**. 
 
 2. **[Broadcasting](notebook-2.ipynb)**
   
-3. **[Some miscelaneous](notebook-3.ipynb)**. Reproducible randomness, loading and saving arrays.
+3. **[Some miscelaneous](notebook-3.ipynb)**. Loading and saving arrays, masked arrays.
 
-Each notebook contains explanatory text + some exercises. Solutions can be find in the notebooks with the suffix '-sol'.
+Each notebook contains explanatory text + some exercises. Solutions can be found inside folder ```solutions```.
 
 ---
 
 ## Extra material and further resources
 
+- [Notebook on all the possible ways of indexing](extra-material/indexing.ipynb)
 - [Numpy chapter in "Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/02.00-introduction-to-numpy.html)
 - Scipy lecture notes
   - [Basic Numpy](http://scipy-lectures.org/intro/numpy/index.html)
