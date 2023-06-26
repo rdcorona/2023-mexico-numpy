@@ -6,7 +6,7 @@
 
 1. **[Fancy indexing, views/copies and sorting](notebook-1-fancyindexing-views-copies-sorting.ipynb)**. 
 
-2. **[Broadcasting](notebook-2.ipynb)**
+2. **[Broadcasting](notebook-2-broadcasting.ipynb)**
   
 3. **[Some miscelaneous](notebook-3.ipynb)**. Loading and saving arrays, masked arrays.
 
