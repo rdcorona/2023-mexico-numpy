@@ -10,7 +10,7 @@
   
 3. **[Some miscelaneous](notebook-3.ipynb)**. Reproducible randomness, loading and saving arrays.
 
-Each notebook contains explanatory text + some exercises. Solutions can be find in the notebooks with the suffix '-sol'.
+Each notebook contains explanatory text + some exercises.
 
 ---
 
